@@ -49,7 +49,7 @@ export default function Home() {
                 {/* placeholder portrait */}
                 <div className="relative aspect-[4/5] w-full overflow-hidden rounded-3xl border border-slate-200 bg-slate-100 shadow-sm">
                   <Image
-                    src="/images/Dennis Michael.jpeg"
+                    src="/images/valdis.jpeg"
                     alt="Foto profil"
                     fill
                     priority
@@ -66,9 +66,9 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <p className="mt-3 text-xs text-slate-500">
+                {/* <p className="mt-3 text-xs text-slate-500">
                   *Foto portrait akan kita ganti setelah aset final tersedia.
-                </p>
+                </p> */}
               </Reveal>
             </div>
           </Container>

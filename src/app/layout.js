@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  metadataBase: new URL("http://localhost:3000"), // nanti ganti ke domain vercel saat deploy
+  metadataBase: new URL("https://valdis-property-website-personal-branding-fflos3y36.vercel.app/"), // nanti ganti ke domain vercel saat deploy
   title: "Valdis Property | Agent Properti Surabaya",
   description:
     "Agent properti Surabaya fokus pergudangan (Margomulyo & Kalianak). Melayani jual, sewa, dan titip listing rumah/ruko/gudang/tanah/lahan.",
